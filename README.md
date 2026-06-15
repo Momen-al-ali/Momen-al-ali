@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🏗️ **Data Analytics Engineer** at [Raseen Labs](https://raseenlabs.com) — building data systems for B2B SaaS products
+- 🏗️ **ERP & BI Engineer** at [Raseen Labs](https://raseenlabs.com) — building data systems for B2B SaaS products
 - 🔧 Currently deep-diving into **production ETL pipelines**, **dbt**, and **Apache Airflow**
 - ☁️ Working with **Snowflake**, **Azure**, and **Python** for scalable data workloads
 - 📊 Background in **BI & Analytics** — SQL, Tableau, Power BI, Pandas
@@ -33,12 +33,10 @@
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 
 **Cloud & Warehousing**
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 **Analytics & BI**
 
