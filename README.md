@@ -9,6 +9,8 @@
 <br/>
 
 ---
+# > 🔔 **Heads up:** This GitHub account is purpose-built for **Data Engineering & Big Data** work.
+> I'm using this as a clean slate — all new pipelines, warehousing projects, and data systems land here.
 
 ## 🧑‍💻 About Me
 
